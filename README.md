@@ -14,7 +14,7 @@ The `training` directory contains notebooks used for training models. The `submi
 
 The submissions used for the final leaderboard score contain `FINAL` in the notebook name.
 
-We used a tiled dataset and image tiling code [1] to train models. We trained models based on architectures laid out in several papers [2][3][4][5][6][7].
+We used a tiled dataset and image tiling code [1] to train models. We trained models based on architectures laid out in several papers [2][3][4][5][6][7][8].
 
 
 
